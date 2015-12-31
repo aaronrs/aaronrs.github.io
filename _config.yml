@@ -1,6 +1,6 @@
 # Site settings
-name: Travelogue
-description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
+name: Eliot's Blog
+description: A magical thing where all is true and life could not get better.
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://yourdomain.com' # the base hostname & protocol for your site
@@ -15,9 +15,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Salvatore Gentile'
+    name: 'Eliot S'
     email: ''
-    uri: 'https://github.com/SalGnt'
+    uri: ''
 
 sass:
     sass_dir: _sass
