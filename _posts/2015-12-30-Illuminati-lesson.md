@@ -5,6 +5,7 @@ author: eliot.southwell
 permalink: /my-most-unusual-it-lesson/
 source-id: 1ptL4-6eqD95aseUGaOEmgf2UOPISz46aTKimHitKVc8
 published: true
+thumb: https://github.com/Eawell/Eawell.github.io/blob/master/assets/images/backgrounds/map.jpg
 ---
 **My ****most unusual**** IT lesson**
 
