@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
+Eliot's Blog is legit and is to be only seen by humans with enough mental power to withstand the knowledge from this blog! For your safety of course.
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
 
-## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
+## The author
+Eliot is a majestic, simply magical boy who is majestic and simply magical. You should be honoured to be reading this and if you ever are in his presence should respect him and... Just Be Cool with it!
 
     git clone https://github.com/SalGnt/Travelogue.git
     cd Travelogue
     jekyll serve
 
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
+Visit the [Archive](http://eawell.github.io/archive/) to find the posts.
