@@ -40,9 +40,9 @@ Spam
 
 We also learnt about [Links](https://en.wikipedia.org/wiki/Link)! [https://you.got.tricked/LOL](https://you.got.tricked/LOL)
 
-                                     /\
+                                   /\
 
-                                     ||
+                                   ||
 
-                                  Click
+                              Click
 
