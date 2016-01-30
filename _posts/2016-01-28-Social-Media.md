@@ -3,6 +3,7 @@ title: Social Media
 layout: post
 author: eliot.southwell
 permalink: /Social-Media/
+thumb: ../assets/images/social-media.jpg
 source-id: 12JmosT6lSaMdhEbvWZEfkt-xB29lLejLaZY2jzFv4js
 published: true
 ---
