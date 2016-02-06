@@ -14,5 +14,3 @@ Then we had to put them in a line in the order from worst thing to do to somethi
 
 We learnt about what to do and different perspectives in different situations!
 
-![image alt text]({{ site.url }}/public/Kqil6fDQo9OHuw9YNVugkA_img_0.png)
-
