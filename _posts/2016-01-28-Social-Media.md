@@ -6,6 +6,8 @@ permalink: /Social-Media/
 thumb: ../assets/images/social_media.jpg
 source-id: 12JmosT6lSaMdhEbvWZEfkt-xB29lLejLaZY2jzFv4js
 published: true
+show_tags: false
+show_categories: false
 ---
 Social media and BAD HOMEWORK
 

@@ -6,6 +6,8 @@ permalink: /my-most-unusual-it-lesson/
 source-id: 1ptL4-6eqD95aseUGaOEmgf2UOPISz46aTKimHitKVc8
 published: true
 thumb: ../assets/images/Supermassive_black_hole.jpeg
+show_tags: false
+show_categories: false
 ---
 **My ****most unusual**** IT lesson**
 
