@@ -7,7 +7,7 @@ source-id: 1MnoiP2pKfuLWYgYmAwYjlpystEyPQDmrroTaKB6BH1s
 thumb: ../assets/images/Identity.png
 published: true
 ---
-**Identity map **
+**Identity map**
 
 When I was making my identity map I really wasn't sure what and how much information to put on it and made slow progress on it.
 I found it quite fun to make the identity map and it was interesting.
