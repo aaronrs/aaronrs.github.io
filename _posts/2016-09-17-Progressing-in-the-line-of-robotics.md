@@ -4,6 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /progressing-in-the-line-of-robotics/
 source-id: 1oCexnkWCuHl7QhRJCUWNxZT4Icpimq5vk1N9-ben8NY
+thumb: ../assets/images/es.jpg
 published: true
 ---
 <table>
@@ -26,7 +27,7 @@ published: true
     <td>To complete as much as we could in the booklet</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
+    <td>Did I reach my target?
 (add details to "Lesson Review")</td>
     <td>Yes.</td>
   </tr>

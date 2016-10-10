@@ -3,8 +3,6 @@ title: What happened
 layout: post
 author: eliot.southwell
 permalink: /what-happened/
-tags:
-- thumb: stock-illustration-34544780-3d-person-looking-up-at-question-mark.jpg
 thumb: ../assets/images/stock-illustration-34544780-3d-person-looking-up-at-question-mark.jpg
 source-id: 1EMaNxP34J1IwBHPoHdjcmAwDYzsNZHdWZF_eLWDJjLc
 published: true
@@ -29,7 +27,7 @@ published: true
     <td>To do better than last week, get to page 45</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
+    <td>Did I reach my target?
 (add details to "Lesson Review")</td>
     <td>Max got to page 42 and as he was on his own he did.</td>
   </tr>

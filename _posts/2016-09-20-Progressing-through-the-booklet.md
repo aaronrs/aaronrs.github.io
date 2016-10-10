@@ -4,6 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /progressing-through-the-booklet/
 source-id: 1PFGNaCjKCW42GnIVWj9KwFbjdgeiz82OZSoQxB6KXLw
+thumb: ../assets/images/es.jpg
 published: true
 ---
 <table>
@@ -26,7 +27,7 @@ published: true
     <td>To complete as much as we could in the booklet</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
+    <td>Did I reach my target?
 (add details to "Lesson Review")</td>
     <td>Yes. We got to page 31.</td>
   </tr>

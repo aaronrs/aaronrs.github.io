@@ -4,7 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /robot-building/
 source-id: 1oxu2SEa_cepDDcFjALHJsq0PhUTYGsx22jfS6OQwlyc
-thumb: ../../assets/images/es.jpg
+thumb: ../assets/images/es.jpg
 published: true
 ---
 <table>
