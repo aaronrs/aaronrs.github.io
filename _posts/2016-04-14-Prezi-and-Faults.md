@@ -4,7 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /Prezi-and-Faults/
 source-id: 1vkShbntWjF_kYu4D6lWaSWKmGxZHo7WR-Bao81zWPYk
-thunb: ../../assets/images/es.jpg
+thumb: ../../assets/images/es.jpg
 published: true
 ---
 **Prezi and Faults**

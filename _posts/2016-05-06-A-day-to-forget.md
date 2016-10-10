@@ -4,7 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /a-day-to-forget/
 source-id: 1WMyqaNaozJA4tNZSoIYMlyOq5ocaJIy-PE2NTZsCFxI
-thunb: ../../assets/images/es.jpg
+thumb: ../../assets/images/es.jpg
 published: true
 ---
 **A day to forget**

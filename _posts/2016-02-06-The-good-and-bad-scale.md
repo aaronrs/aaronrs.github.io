@@ -4,7 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /The-good-and-bad-scale/
 source-id: 1sgMAZC_ItTMpzTKUKznVEAyIjzBigxc5w7InOD_snvE
-thunb: ../../assets/images/es.jpg
+thumb: ../../assets/images/es.jpg
 published: true
 ---
 **The good and bad scale**

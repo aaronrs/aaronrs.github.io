@@ -4,7 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /microbits/
 source-id: 1Ed3aFm0RQyMVqaOsr2eg8F1PpUZzrwENDGJW9BC_G9k
-thunb: ../../assets/images/es.jpg
+thumb: ../../assets/images/es.jpg
 published: true
 ---
 **Microbits!**

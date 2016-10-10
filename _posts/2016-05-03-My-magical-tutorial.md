@@ -4,7 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /my-magical-tutorial/
 source-id: 1gfTkkbXNOQGCYNRuxZdY5jQDyNYCpAWH-IqiTrMyJYk
-thunb: ../../assets/images/es.jpg
+thumb: ../../assets/images/es.jpg
 published: true
 ---
 **My magical tutorial**
