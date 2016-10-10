@@ -5,6 +5,7 @@ author: eliot.southwell
 permalink: /what-happened/
 tags:
 - thumb: stock-illustration-34544780-3d-person-looking-up-at-question-mark.jpg
+thumb: ../assets/images/stock-illustration-34544780-3d-person-looking-up-at-question-mark.jpg
 source-id: 1EMaNxP34J1IwBHPoHdjcmAwDYzsNZHdWZF_eLWDJjLc
 published: true
 ---
