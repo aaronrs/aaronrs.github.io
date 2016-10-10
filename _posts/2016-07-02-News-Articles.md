@@ -4,6 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /news-articles/
 source-id: 1ltGZneeAi-0OPf1mv-9nKqIiEnw927LYrlw7JrqClaQ
+thunb: ../../assets/images/es.jpg
 published: true
 ---
 **News Articles**

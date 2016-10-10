@@ -4,7 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /identity-map/
 source-id: 1MnoiP2pKfuLWYgYmAwYjlpystEyPQDmrroTaKB6BH1s
-thumb: ../assets/images/Identity.png
+thumb: ../../assets/images/Identity.png
 published: true
 ---
 **Identity map**

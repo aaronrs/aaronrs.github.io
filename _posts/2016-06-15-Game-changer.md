@@ -4,6 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /game-changer/
 source-id: 1XPLwQSuhQcHDo1GsgLVP-PAJd8rQU0vRlMs-BA2Ex_M
+thunb: ../../assets/images/es.jpg
 published: true
 ---
 **Game changer**

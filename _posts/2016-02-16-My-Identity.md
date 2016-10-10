@@ -5,7 +5,7 @@ author: eliot.southwell
 permalink: /my-identity/
 source-id: 14ygfiI9hqZOCwWSVOOpA7_dJap1Owb9fn36NnVQTvEc
 published: true
-thumb: ../assets/images/identity.jpg
+thumb: ../../assets/images/identity.jpg
 ---
 **My Identity???**
 

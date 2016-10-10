@@ -4,6 +4,7 @@ layout: post
 author: eliot.southwell
 permalink: /robot-building/
 source-id: 1oxu2SEa_cepDDcFjALHJsq0PhUTYGsx22jfS6OQwlyc
+thunb: ../../assets/images/es.jpg
 published: true
 ---
 <table>
@@ -26,7 +27,7 @@ published: true
     <td>To create a Fuze and read about it in a booklet.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
+    <td>Did I reach my target?
 (add details to "Lesson Review")</td>
     <td>Yes, we got our Fuze to work but then the items on the screen went huge and unreadable.</td>
   </tr>
