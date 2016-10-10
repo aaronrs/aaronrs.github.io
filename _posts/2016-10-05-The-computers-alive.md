@@ -3,6 +3,7 @@ title: The computers alive
 layout: post
 author: eliot.southwell
 permalink: /the-computers-alive/
+thumb: ../assets/images/devil-computer.png
 source-id: 1k3lwhI0X5AQyy_ZZIwDmdp0ixK4Cih9TZXdhHbrbgYY
 published: true
 ---
