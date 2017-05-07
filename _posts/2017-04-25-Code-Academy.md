@@ -2,7 +2,7 @@
 title: Code Academy
 layout: post
 author: eliot.southwell
-permalink: /Code-Academy/
+permalink: /code-academy/
 source-id: 1uQZechdWqePHLfMd65xJ1SeRGqei-8QtlAcWrWXek1M
 published: true
 ---
