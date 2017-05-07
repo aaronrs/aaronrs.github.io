@@ -1,5 +1,5 @@
 ---
-title: Code-Academy
+title: Code Academy
 layout: post
 author: eliot.southwell
 permalink: /Code-Academy/
